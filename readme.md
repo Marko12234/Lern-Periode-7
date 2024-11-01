@@ -32,10 +32,22 @@ Heute habe ich mich in das Modul 294 eingearbeitet und mich mit den Fachbegriffe
 ## 1.11
 Weil ich im Modul 436 nicht so weit bin wie vorgesehen, nutzte ich diese Lernperiode um in dem Modul die Aufträge nachzuholen.
 
-- [ ] Ich arbeite an Modul 346 und lese mir die Präsentationen zu den verschiedenen Arten von Cloudservices durch.
+- [x] Ich arbeite an Modul 346 und lese mir die Präsentationen zu den verschiedenen Arten von Cloudservices durch.
 - [ ] Ich bearbeite Auftrag 0706 im Modul 436
 - [ ] Ich bearbeite Auftrag 0707 im Modul 436
 - [ ] Ich bearbeite Auftrag 0707 im Modul 436
+
+✍️ Heute habe ich... (50-100 Wörter)
+
+Heute habe ich mir die Präsentationen zu den verschiedenen Arten von Cloud-Computing Services angeschaut und mir dabei alle unbekannten Begriffe notiert. Dies hat weitaus mehr Zeit in Anspruch genommen als erwartet. Ein Grund dafür könnte sein, dass ich mir nicht bewusst bin, wie wie genau ich mich mit den Fachbegriffen auskennen muss, und darum lieber zu viele als zu wenig Informationen notiert habe.
+
+## 08.11.2024 - Vorläufige Planung
+Ich plane, nächste Woche wieder im Modul 294 weiterzuarbeiten, allerdings kann ich noch nicht genau sagen, welche Aufträge ich genau löse, da ich nicht weiss, wie weit ich zu diesem Zeitpunkt mit dem Modul sein werde.
+
+- [ ]  Ich arbeite mich in das Modul 294 ein und löse die Lern- und Arbeitsaufträge, um die Grundlage für das Erstellen der Website zu haben.
+- [ ]  Ich arbeite mich in das Modul 294 ein und löse die Lern- und Arbeitsaufträge, um die Grundlage für das Erstellen der Website zu haben.
+- [ ]  Ich arbeite mich in das Modul 294 ein und löse die Lern- und Arbeitsaufträge, um die Grundlage für das Erstellen der Website zu haben.
+- [ ]  Ich arbeite mich in das Modul 294 ein und löse die Lern- und Arbeitsaufträge, um die Grundlage für das Erstellen der Website zu haben.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
