@@ -30,11 +30,12 @@ Heute habe ich mich in das Modul 294 eingearbeitet und mich mit den Fachbegriffe
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 ## 1.11
+Weil ich im Modul 436 nicht so weit bin wie vorgesehen, nutzte ich diese Lernperiode um in dem Modul die Aufträge nachzuholen.
 
-- [ ] Ich arbeite mich in das Modul 294 ein und löse die Lern- und Arbeitsaufträge, um die Grundlage für das Erstellen der Website zu haben.
-- [ ] Ich arbeite mich in das Modul 294 ein und löse die Lern- und Arbeitsaufträge, um die Grundlage für das Erstellen der Website zu haben.
-- [ ] Ich arbeite mich in das Modul 294 ein und löse die Lern- und Arbeitsaufträge, um die Grundlage für das Erstellen der Website zu haben.
-- [ ] Ich arbeite mich in das Modul 294 ein und löse die Lern- und Arbeitsaufträge, um die Grundlage für das Erstellen der Website zu haben.
+- [ ] Ich arbeite an Modul 346 und lese mir die Präsentationen zu den verschiedenen Arten von Cloudservices durch.
+- [ ] Ich bearbeite Auftrag 0706 im Modul 436
+- [ ] Ich bearbeite Auftrag 0707 im Modul 436
+- [ ] Ich bearbeite Auftrag 0707 im Modul 436
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
