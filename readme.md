@@ -41,7 +41,7 @@ Weil ich im Modul 436 nicht so weit bin wie vorgesehen, nutzte ich diese Lernper
 
 Heute habe ich mir die Präsentationen zu den verschiedenen Arten von Cloud-Computing Services angeschaut und mir dabei alle unbekannten Begriffe notiert. Dies hat weitaus mehr Zeit in Anspruch genommen als erwartet. Ein Grund dafür könnte sein, dass ich mir nicht bewusst bin, wie wie genau ich mich mit den Fachbegriffen auskennen muss, und darum lieber zu viele als zu wenig Informationen notiert habe.
 
-## 08.11.2024 - Vorläufige Planung
+## 08.11.2024
 Weil ich im Modul 436 nicht so weit bin wie vorgesehen, nutzte ich diese Lernperiode um in dem Modul die Aufträge nachzuholen.
 
 - [ ]  Ich arbeite im Modul 436.
