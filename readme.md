@@ -95,7 +95,15 @@ Ich habe bemerkt, dass ich mehr Zeit in Modul 347 innvestieren muss. Ich möchte
 - [ ] Ich löse die Aufträge "0005 Docker installieren" und schaue mir Präsentation 1006 durch
 - [ ] Ich löse den Moodle Test 1007 und löse den Auftrag 4010 mithilfe von "Präsentation PR_0008"
 - [ ] Ich schaue mir die Präsentation "Linux in Kürze" durch und falls es zeitlich geht bearbeite ich noch Auftrag 1013
-- [ ] Ich notiere mir alle wichtigen Fachbegriffe, die ich heute lerne
+- [x] Ich notiere mir alle wichtigen Fachbegriffe, die ich heute lerne
+
+Ich bin heute beim ersten Arbeitspaket steckengeblieben, weil das im Arbeitsauftrag zu installierende Programm Docker Desktop beim Starten abstürzte. Um dieses Problem zu beseitigen habe ich als erstes versucht, das Problem mittels einer Eingabe in der Kommandozeile zu beheben, was unglücklicherweise nicht funktioniert hat. Als zweites habe ich versucht, mit der Ausgabe der Fehlermeldung im Internet nach dem selben Problem zu suchen, in der Hoffnung, dass jemand dieses Problem schon einmal hatte und dazu eine Lösung gefunden hat. Ich habe heute mich informiert, wie ich Stack Overflow benutzen kann. Stack Overflow ist eine Webseite für Programmierer, in denen Fragen über das Programmieren gestellt und beantwortet werden.
+
+## 20.12.2024
+Ich habe bemerkt, dass ich mehr Zeit in Modul 347 innvestieren muss. Ich möchte diesmal nicht jedes neue Fachwort notieren und erklären, sondern möchte nur aufschreiben, welche Fachwörter es gibt und sie dann später, ggf. nach dem Abschluss des Moduls notieren, damit ich während dem Modul effizienter vorankomme.
+
+- [ ] Ich arbeite an Modul 347.
+- [ ] Ich arbeite an Modul 347.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
