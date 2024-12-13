@@ -42,49 +42,42 @@ Heute habe ich mir die Präsentationen zu den verschiedenen Arten von Cloud-Comp
 ## 08.11.2024
 Weil ich im Modul 436 nicht so weit bin wie vorgesehen, nutzte ich diese Lernperiode um in dem Modul die Aufträge nachzuholen.
 
-- [ ]  Ich arbeite im Modul 436.
-- [ ]  Ich arbeite im Modul 436.
-- [ ]  Ich arbeite im Modul 436.
-- [ ]  Ich arbeite im Modul 436.
+- [x]  Ich arbeite im Modul 436.
+- [x]  Ich arbeite im Modul 436.
+- [x]  Ich arbeite im Modul 436.
+- [x]  Ich arbeite im Modul 436.
 
-Heute habe ich mich mit dem
-
+Ich habe an den Aufträgen aus dem Modul gearbeitet und mir dabei alle unbekannten Begriffe in Notion notiert.
 
 ## 15.11.2024
 Weil ich im Modul 436 nicht so weit bin wie vorgesehen, nutzte ich diese Lernperiode um in dem Modul die Aufträge nachzuholen.
 
-- [ ]  Ich arbeite im Modul 436.
-- [ ]  Ich arbeite im Modul 436.
-- [ ]  Ich arbeite im Modul 436.
-- [ ]  Ich arbeite im Modul 436.
+- [x]  Ich arbeite im Modul 436.
+- [x]  Ich arbeite im Modul 436.
+- [x]  Ich arbeite im Modul 436.
+- [x]  Ich arbeite im Modul 436.
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+Heute habe ich an den Aufträgen aus dem Modul 347 gearbeitet und wie immer mein gewonnenes Wissen in Notion notiert. Manchmal habe ich ChatGPT benutzt, um eine Zusammenfassung für neue Fachwörter zu generieren. Ich befürchte, dass diese Arbeitsmethode sehr zeitaufwändig ist, allerdings möchte ich sicher sein, dass ich auch nach dem Abschluss des Moduls mir sicher sein kann, dass ich die Erklärungen zu Fachwörtern schnell finden kann.
 
 ## 22.11.2024
 Weil ich im Modul 436 nicht so weit bin wie vorgesehen, nutzte ich diese Lernperiode um in dem Modul die Aufträge nachzuholen.
 
-- [ ]  Ich arbeite im Modul 436.
-- [ ]  Ich arbeite im Modul 436.
-- [ ]  Ich arbeite im Modul 436.
-- [ ]  Ich arbeite im Modul 436.
+- [x]  Ich arbeite im Modul 436.
+- [x]  Ich arbeite im Modul 436.
+- [x]  Ich arbeite im Modul 436.
+- [x]  Ich arbeite im Modul 436.
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+Ich habe mich heute mit den Lern- und Arbeitsaufträgen aus dem Modul beschäftigt. Ich bin dabei wie sonst auch vorgegangen.
 
 ## 29.11.2024
-Weil ich im Modul 436 nicht so weit bin wie vorgesehen, nutzte ich diese Lernperiode um in dem Modul die Aufträge nachzuholen.
+Ich arbeite an der Leistungsbeurteilung des Modul 347.
 
-- [ ]  Ich arbeite im Modul 436.
-- [ ]  Ich arbeite im Modul 436.
-- [ ]  Ich arbeite im Modul 436.
-- [ ]  Ich arbeite im Modul 436.
+- [x]  Ich arbeite an der Leistungsbeurteilung.
+- [x]  Ich arbeite an der Leistungsbeurteilung.
+- [x]  Ich arbeite an der Leistungsbeurteilung.
+- [x]  Ich arbeite an der Leistungsbeurteilung.
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+Heute habe ich mich ausschliesslich auf die Aufgaben aus der Leistungsbeurteilung konentriert. Dazu habe ich, das gewonnene Wissen aus den Lern- und Arbeitsaufträgen vom Modul genutzt.
 
 ## 06.12.2024
 Ich habe mir vorgenommen, mich über den Advent of Code zu informieren und ausserdem möchte ich lernen, wie ich besser mit Entwicklungsumgebungen, in meinem Fall Visual Studio Code, umgehe.
@@ -97,7 +90,7 @@ Ich habe mir vorgenommen, mich über den Advent of Code zu informieren und ausse
 Heute habe ich informiert, um was es beim Advent of Code geht, wie ich mich einlogge, wie man beim Lösen von Aufgaben des Advent of Codes vorgeht. Dazu habe ich mich mithilfe des Internet auf Seiten wie Stackoverflow oder YouTube-Videos informiert, was bestimmte Zeichen bedeuten, habe mir ihre Bedeutung auf Notion notiert, und habe anschliessend versucht, das allererste Rätsel von Advent of Code zu lösen. Ich habe allerdings gemerkt, dass ich keine Zeit mehr dazu hatte, weil ich sehr lange mit den anderen Arbeitspakete von heute verbracht habe, ich den Arbeitsaufwand der anderen Arbeitspakete unterschätzt habe und ich noch nicht so viel Erfahrung beim Programmieren habe.
 
 ## 13.12.2024
-Ich habe bemerkt, dass ich mehr Zeit in Modul 347 innvestieren muss.
+Ich habe bemerkt, dass ich mehr Zeit in Modul 347 innvestieren muss. Ich möchte diesmal nicht jedes neue Fachwort notieren und erklären, sondern möchte nur aufschreiben, welche Fachwörter es gibt und sie dann später, ggf. nach dem Abschluss des Moduls notieren, damit ich während dem Modul effizienter vorankomme.
 
 - [ ] Ich löse die Aufträge "0005 Docker installieren" und schaue mir Präsentation 1006 durch
 - [ ] Ich löse den Moodle Test 1007 und löse den Auftrag 4010 mithilfe von "Präsentation PR_0008"
