@@ -37,8 +37,6 @@ Weil ich im Modul 436 nicht so weit bin wie vorgesehen, nutzte ich diese Lernper
 - [ ] Ich bearbeite Auftrag 0707 im Modul 436
 - [ ] Ich bearbeite Auftrag 0707 im Modul 436
 
-✍️ Heute habe ich... (50-100 Wörter)
-
 Heute habe ich mir die Präsentationen zu den verschiedenen Arten von Cloud-Computing Services angeschaut und mir dabei alle unbekannten Begriffe notiert. Dies hat weitaus mehr Zeit in Anspruch genommen als erwartet. Ein Grund dafür könnte sein, dass ich mir nicht bewusst bin, wie wie genau ich mich mit den Fachbegriffen auskennen muss, und darum lieber zu viele als zu wenig Informationen notiert habe.
 
 ## 08.11.2024
@@ -48,6 +46,63 @@ Weil ich im Modul 436 nicht so weit bin wie vorgesehen, nutzte ich diese Lernper
 - [ ]  Ich arbeite im Modul 436.
 - [ ]  Ich arbeite im Modul 436.
 - [ ]  Ich arbeite im Modul 436.
+
+Heute habe ich mich mit dem
+
+
+## 15.11.2024
+Weil ich im Modul 436 nicht so weit bin wie vorgesehen, nutzte ich diese Lernperiode um in dem Modul die Aufträge nachzuholen.
+
+- [ ]  Ich arbeite im Modul 436.
+- [ ]  Ich arbeite im Modul 436.
+- [ ]  Ich arbeite im Modul 436.
+- [ ]  Ich arbeite im Modul 436.
+
+✍️ Heute habe ich... (50-100 Wörter)
+
+☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
+## 22.11.2024
+Weil ich im Modul 436 nicht so weit bin wie vorgesehen, nutzte ich diese Lernperiode um in dem Modul die Aufträge nachzuholen.
+
+- [ ]  Ich arbeite im Modul 436.
+- [ ]  Ich arbeite im Modul 436.
+- [ ]  Ich arbeite im Modul 436.
+- [ ]  Ich arbeite im Modul 436.
+
+✍️ Heute habe ich... (50-100 Wörter)
+
+☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
+## 29.11.2024
+Weil ich im Modul 436 nicht so weit bin wie vorgesehen, nutzte ich diese Lernperiode um in dem Modul die Aufträge nachzuholen.
+
+- [ ]  Ich arbeite im Modul 436.
+- [ ]  Ich arbeite im Modul 436.
+- [ ]  Ich arbeite im Modul 436.
+- [ ]  Ich arbeite im Modul 436.
+
+✍️ Heute habe ich... (50-100 Wörter)
+
+☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
+## 06.12.2024
+Ich habe mir vorgenommen, mich über den Advent of Code zu informieren und ausserdem möchte ich lernen, wie ich besser mit Entwicklungsumgebungen, in meinem Fall Visual Studio Code, umgehe.
+
+- [x] Ich informiere mich über den Advent und Code mithilfe einer Präsentation und logge mich bei der Webseite für Advent of Code ein, um teilnehmen zu können.
+- [x] Ich informiere mich, wie man beim Lösen von Aufgaben beim Advent of Code vorgeht.
+- [x] Ich notiere mir, was die folgende Zeichen in Entwicklungsumgebungen wie Visual Studio Code bedeuten: LF, CR; CRLF, \n,\r\ und \r\n bedeuten
+- [ ] Ich versuche, das allererste Rätsel vom Advent of Code 2024 zu lösen
+
+Heute habe ich informiert, um was es beim Advent of Code geht, wie ich mich einlogge, wie man beim Lösen von Aufgaben des Advent of Codes vorgeht. Dazu habe ich mich mithilfe des Internet auf Seiten wie Stackoverflow oder YouTube-Videos informiert, was bestimmte Zeichen bedeuten, habe mir ihre Bedeutung auf Notion notiert, und habe anschliessend versucht, das allererste Rätsel von Advent of Code zu lösen. Ich habe allerdings gemerkt, dass ich keine Zeit mehr dazu hatte, weil ich sehr lange mit den anderen Arbeitspakete von heute verbracht habe, ich den Arbeitsaufwand der anderen Arbeitspakete unterschätzt habe und ich noch nicht so viel Erfahrung beim Programmieren habe.
+
+## 13.12.2024
+Ich habe bemerkt, dass ich mehr Zeit in Modul 347 innvestieren muss.
+
+- [ ] Ich löse die Aufträge "0005 Docker installieren" und schaue mir Präsentation 1006 durch
+- [ ] Ich löse den Moodle Test 1007 und löse den Auftrag 4010 mithilfe von "Präsentation PR_0008"
+- [ ] Ich schaue mir die Präsentation "Linux in Kürze" durch und falls es zeitlich geht bearbeite ich noch Auftrag 1013
+- [ ] Ich notiere mir alle wichtigen Fachbegriffe, die ich heute lerne
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
