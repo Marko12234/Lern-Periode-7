@@ -99,10 +99,10 @@ Ich habe bemerkt, dass ich mehr Zeit in Modul 347 innvestieren muss. Ich möchte
 
 Ich habe sehr viel Zeit in die erste Arbeitspaket gesteckt, weil das im Arbeitsauftrag zu installierende Programm Docker Desktop beim Starten abstürzte. Um dieses Problem zu beseitigen habe ich als erstes versucht, das Problem mittels einer Eingabe in der Kommandozeile zu beheben, was unglücklicherweise nicht funktioniert hat. Als zweites habe ich versucht, mit der Ausgabe der Fehlermeldung im Internet nach dem selben Problem zu suchen, in der Hoffnung, dass jemand dieses Problem schon einmal hatte und dazu eine Lösung gefunden hat. Ich habe mich heute zu diesem Zweck informiert, wie ich Stack Overflow benutzen kann. Stack Overflow ist eine Webseite für Programmierer, in denen Fragen über das Programmieren gestellt und beantwortet werden. Ich habe meine Fähigkeiten verbessert, Lösungen zu bereits bekannten Problemen zu finden, auch wenn ich mit meinen Arbeitspaketen nicht so weit gekommen bin wie geplant.
 ## 20.12.2024
-Ich habe bemerkt, dass ich mehr Zeit in Modul 347 innvestieren muss. Ich möchte diesmal nicht jedes neue Fachwort notieren und erklären, sondern möchte nur aufschreiben, welche Fachwörter es gibt und sie dann später, ggf. nach dem Abschluss des Moduls notieren, damit ich während dem Modul effizienter vorankomme.
+Ich bin derzeit der Meinung, dass ich an meinen Programmierfähigkeiten arbeiten soll, deswegen versuche ich jetzt, Aufgaben vom Advent of Code zu lösen.
 
-- [ ] Ich arbeite an Modul 347.
-- [ ] Ich arbeite an Modul 347.
+- [ ] Ich bearbeite den Advent of Code 2024.
+- [ ] Ich bearbeite den Advent of Code 2024.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
